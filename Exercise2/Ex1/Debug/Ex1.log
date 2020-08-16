@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Ex1.cpp
+c:\users\malin\desktop\elly\дс\exercise2\ex1\ex1.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\malin\desktop\elly\дс\exercise2\ex1\ex1.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\malin\desktop\elly\дс\exercise2\ex1\ex1.cpp(121): warning C4018: '<': signed/unsigned mismatch
+  Ex1.vcxproj -> C:\Users\malin\Desktop\Elly\ДС\Exercise2\Debug\Ex1.exe

@@ -1,0 +1,8 @@
+﻿  Ex2.cpp
+c:\users\malin\desktop\elly\дс\exercise2\ex2\ex2.cpp(139): warning C4018: '<': signed/unsigned mismatch
+c:\users\malin\desktop\elly\дс\exercise2\ex2\ex2.cpp(141): warning C4018: '<=': signed/unsigned mismatch
+c:\users\malin\desktop\elly\дс\exercise2\ex2\ex2.cpp(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\malin\desktop\elly\дс\exercise2\ex2\ex2.cpp(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\malin\desktop\elly\дс\exercise2\ex2\ex2.cpp(242): warning C4018: '<': signed/unsigned mismatch
+c:\users\malin\desktop\elly\дс\exercise2\ex2\ex2.cpp(262): warning C4018: '<': signed/unsigned mismatch
+  Ex2.vcxproj -> C:\Users\malin\Desktop\Elly\ДС\Exercise2\Debug\Ex2.exe
