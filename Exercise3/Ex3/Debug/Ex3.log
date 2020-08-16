@@ -1,0 +1,5 @@
+﻿  Ex3.cpp
+c:\users\malin\desktop\elly\дс\exercise3\ex3\ex3.cpp(35): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\malin\desktop\elly\дс\exercise3\ex3\ex3.cpp(39): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\malin\desktop\elly\дс\exercise3\ex3\ex3.cpp(95): warning C4244: 'argument': conversion from 'unsigned __int64' to 'size_t', possible loss of data
+  Ex3.vcxproj -> C:\Users\malin\Desktop\Elly\ДС\Exercise3\Debug\Ex3.exe
